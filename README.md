@@ -15,11 +15,11 @@ Police violence has jumped to the forefront of our country's challenges since th
 
 ## Preliminary observations
 
-First, the basic relationship between the number of police killings in a city between 2013 and 2017 and the 2015 average police officer salary in that city is observed. See [Plot 1]().
+First, the basic relationship between the number of police killings in a city between 2013 and 2017 and the 2015 average police officer salary in that city is observed. See [Plot 1](https://github.com/mackenziewildman/PoliceProject/blob/master/Plot1.png).
 
-Next, additional insight is provided by incorporating the average per capita resident income of each city (or if not available, the corresponding county). [Plot 2]() shows the relationship between the number of police killings in a city and the percent difference of local average income that police officers are paid. Note that on average, police officers are paid well above the local average salary (up to almost 7 times the average local income). Benefits and overtime are included in the police officer salary data and further work must be done to address whether this inflates the police salaries against the average.
+Next, additional insight is provided by incorporating the average per capita resident income of each city (or if not available, the corresponding county). [Plot 2](https://github.com/mackenziewildman/PoliceProject/blob/master/Plot2.png) shows the relationship between the number of police killings in a city and the percent difference of local average income that police officers are paid. Note that on average, police officers are paid well above the local average salary (up to almost 7 times the average local income). Benefits and overtime are included in the police officer salary data and further work must be done to address whether this inflates the police salaries against the average.
 
-Finally, local population is incorporated to show the number of people killed by police per 100,000 residents in each city. See [Plot 3](). Outliers are removed from the plot in order to show a meaningful relationship between the remaining data points.
+Finally, local population is incorporated to show the number of people killed by police per 100,000 residents in each city. See [Plot 3](https://github.com/mackenziewildman/PoliceProject/blob/master/Plot3.png). Outliers are removed from the plot in order to show a meaningful relationship between the remaining data points.
 
 Within California, higher relative police officer salaries are not obviously associated with fewer instances of police-inflicted fatalities. I propose to further this analysis to understand whether increasing police officer salaries can lead to less police violence and what alternative incentives may be used.
 
