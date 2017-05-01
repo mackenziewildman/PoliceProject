@@ -25,7 +25,7 @@ Within California, higher relative police officer salaries are not obviously ass
 
 ## Next steps
 
-* Include additional juristictions in analysis. Begin by comparing California data with a state with low police officer salaries, e.g. [Mississippi](https://www.bls.gov/oes/current/ms_counties.htm).
+* Include additional jurisdictions in analysis. Begin by comparing California data with a state with low police officer salaries, e.g. [Mississippi](https://www.bls.gov/oes/current/ms_counties.htm).
 
 * Analyze [complaint data](https://codeforamerica.github.io/PoliceOpenDataCensus/datasets.html) of local law enforcement offices. How does the number of complaints filed in a city relate to the number of police killings and the officers' salaries?
 
