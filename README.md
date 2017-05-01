@@ -21,7 +21,7 @@ Next, additional insight is provided by incorporating the average per capita res
 
 Finally, local population is incorporated to show the number of people killed by police per 100,000 residents in each city. See [Plot 3](https://github.com/mackenziewildman/PoliceProject/blob/master/Plot3.png). Outliers are removed from the plot in order to show a meaningful relationship between the remaining data points.
 
-Within California, higher relative police officer salaries are not obviously associated with fewer instances of police-inflicted fatalities. I propose to further this analysis to understand whether increasing police officer salaries can lead to less police violence and what alternative incentives may be used.
+Within California, higher relative police officer salaries are not obviously associated with fewer instances of police-inflicted fatalities. I propose to further this analysis to understand whether increasing police officer salaries can lead to less police violence and what alternative approaches may be used.
 
 ## Next steps
 
